@@ -35,7 +35,7 @@ Curious and driven Computer Science and Engineering student at Lund University w
 # 📊 GitHub Stats:
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anton-Johannesson&theme=gotham&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Anton-Johannesson&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📈 General Stats
 ![](https://github-readme-stats.vercel.app/api?username=Anton-Johannesson&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
