@@ -34,9 +34,6 @@ Curious and driven Computer Science and Engineering student at Lund University w
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
 
-### 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Anton-Johannesson&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
-
 ### 📈 General Stats
 ![](https://github-readme-stats.vercel.app/api?username=Anton-Johannesson&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anton-Johannesson&theme=gotham&hide_border=false)<br/>
